@@ -1,8 +1,3 @@
-# Problem Set 4B
-# Name: Shirin Amouei
-# Collaborators: None
-# Time Spent: 10:00
-# Late Days Used: None
 
 import string
 
